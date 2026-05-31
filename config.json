@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsender",
+        "uuid": 2732570,
+        "checksum": "wbji3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
